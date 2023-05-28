@@ -5,6 +5,8 @@
 // #include <sys/ioctl.h>
 // #include <unistd.h>
 
+// g++ main.cpp -o main && ./main
+
 std::vector<std::vector<std::string>> getTableData();
 void printTable(std::vector<std::vector<std::string>>);
 
