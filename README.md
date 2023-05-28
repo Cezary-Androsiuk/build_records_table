@@ -9,4 +9,4 @@ cd build_records_table
 g++ main.cpp -o main && ./main
 ```
 
-![Example](https://github.com/Cezary-Androsiuk/build_records_table/blob/main/images/Example.png?raw=true)
+![Example](https://github.com/Cezary-Androsiuk/build_records_table/blob/master/images/Example.png?raw=true)
